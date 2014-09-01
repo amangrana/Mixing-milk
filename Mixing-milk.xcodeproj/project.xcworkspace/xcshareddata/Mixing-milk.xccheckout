@@ -5,13 +5,15 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>73174905-F0A7-4A13-8664-A702351200E0</string>
+	<string>1304FA05-8D10-42C0-A76A-AB72C62593DE</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Mixing-milk</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BB9B8BEE-8A87-4192-96F0-E3707241049B</key>
 		<string>https://github.com/amangrana/USACO.git</string>
+		<key>E501AACA-74C6-4EA7-8D01-B55ADE433D4B</key>
+		<string>https://github.com/amangrana/Mixing-milk.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Mixing-milk/Mixing-milk.xcodeproj/project.xcworkspace</string>
@@ -19,15 +21,25 @@
 	<dict>
 		<key>BB9B8BEE-8A87-4192-96F0-E3707241049B</key>
 		<string>../../..</string>
+		<key>E501AACA-74C6-4EA7-8D01-B55ADE433D4B</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/amangrana/USACO.git</string>
+	<string>https://github.com/amangrana/Mixing-milk.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
 	<string>BB9B8BEE-8A87-4192-96F0-E3707241049B</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E501AACA-74C6-4EA7-8D01-B55ADE433D4B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mixing-milk</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
